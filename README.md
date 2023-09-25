@@ -1,6 +1,6 @@
 # Name Gender Prediction using Machine Learning
 
-A Python machine learning project to predict the gender of a given name based on a pre-trained model.
+A Python machine learning project to predict the gender of a given name.
 
 ## Table of Contents
 
